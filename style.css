@@ -1,0 +1,42 @@
+#h1{
+    text-align: center;
+    color: yellow;
+}
+#B{
+    text-align: center;
+    background-color: rgb(15, 0, 54);
+}
+#b2P{
+    text-align: center;
+    color: green;
+}
+#B3{
+    text-align: center;
+}
+#B4{
+    text-align: center;
+    color: green;
+}
+span{
+    color: green;
+}
+p{
+    color: white;
+}
+img{
+    border: 3px solid yellow;
+}
+thead{
+    color: aliceblue;
+}
+tbody{
+    color: aliceblue;
+}
+table{
+    border: rgb(159, 159, 96);
+}
+table{
+    width: 100%;
+}
+button{background-color: yellow; 
+border-radius: 20; }
